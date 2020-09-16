@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/seltzer-quiz/static/css/main.51727e1a.chunk.css",
+    "main.js": "/seltzer-quiz/static/js/main.0dc1edda.chunk.js",
+    "main.js.map": "/seltzer-quiz/static/js/main.0dc1edda.chunk.js.map",
+    "runtime-main.js": "/seltzer-quiz/static/js/runtime-main.7798b683.js",
+    "runtime-main.js.map": "/seltzer-quiz/static/js/runtime-main.7798b683.js.map",
+    "static/js/2.b0b484e2.chunk.js": "/seltzer-quiz/static/js/2.b0b484e2.chunk.js",
+    "static/js/2.b0b484e2.chunk.js.map": "/seltzer-quiz/static/js/2.b0b484e2.chunk.js.map",
+    "index.html": "/seltzer-quiz/index.html",
+    "precache-manifest.b2e01d9577bb70c175d2ac75961acd0f.js": "/seltzer-quiz/precache-manifest.b2e01d9577bb70c175d2ac75961acd0f.js",
+    "service-worker.js": "/seltzer-quiz/service-worker.js",
+    "static/css/main.51727e1a.chunk.css.map": "/seltzer-quiz/static/css/main.51727e1a.chunk.css.map",
+    "static/js/2.b0b484e2.chunk.js.LICENSE.txt": "/seltzer-quiz/static/js/2.b0b484e2.chunk.js.LICENSE.txt",
+    "static/media/apricot.png": "/seltzer-quiz/static/media/apricot.1190ca39.png",
+    "static/media/berry.png": "/seltzer-quiz/static/media/berry.043a3adb.png",
+    "static/media/coconut.png": "/seltzer-quiz/static/media/coconut.b0350065.png",
+    "static/media/hibiscus.png": "/seltzer-quiz/static/media/hibiscus.5a48753b.png",
+    "static/media/keylime.png": "/seltzer-quiz/static/media/keylime.3614a76d.png",
+    "static/media/lemon.png": "/seltzer-quiz/static/media/lemon.c4c03831.png",
+    "static/media/lime.png": "/seltzer-quiz/static/media/lime.00766053.png",
+    "static/media/limoncello.png": "/seltzer-quiz/static/media/limoncello.def1bb95.png",
+    "static/media/mango.png": "/seltzer-quiz/static/media/mango.5762ee7f.png",
+    "static/media/orange.png": "/seltzer-quiz/static/media/orange.9aca6dc5.png",
+    "static/media/pamplemousse.png": "/seltzer-quiz/static/media/pamplemousse.47d2b149.png",
+    "static/media/passionfruit.png": "/seltzer-quiz/static/media/passionfruit.4ebca782.png",
+    "static/media/pasteque.png": "/seltzer-quiz/static/media/pasteque.a3caaf28.png",
+    "static/media/peachpear.png": "/seltzer-quiz/static/media/peachpear.a0aa2f32.png",
+    "static/media/razzcranberry.png": "/seltzer-quiz/static/media/razzcranberry.ce46fb79.png",
+    "static/media/tangerine.png": "/seltzer-quiz/static/media/tangerine.87f40263.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7798b683.js",
+    "static/js/2.b0b484e2.chunk.js",
+    "static/css/main.51727e1a.chunk.css",
+    "static/js/main.0dc1edda.chunk.js"
+  ]
+}
