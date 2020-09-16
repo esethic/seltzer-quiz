@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+}
+
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.App-button {
+  margin-top: 25px;
+  font-size: 16px;
+  font-weight: 700;
+  border: 3px solid black;
+  padding: 10px 15px 10px 15px;
+  outline: 0;
+}
+
+.App-button:hover {
+  color: white;
+  background-color: black;
+  outline: 0;
+}
+
+.Title {
+margin-bottom: 50px;
+}
+
+
+.Can-button {
+  border: 0px;
+  text-align: center;
+  background-color: #ffffff;
+  margin: 0% 3% 0% 3%;
+  outline:0;
+
+}
+
+
